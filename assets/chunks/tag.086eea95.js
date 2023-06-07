@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as o,C as s,t as n}from"./framework.98960eec.js";const _={name:"tag",props:{tagName:String}},c={id:"root"},r={id:"tag"};function i(p,d,t,g,m,l){return a(),o("div",c,[s("span",r,n(t.tagName),1)])}const u=e(_,[["render",i]]);export{u as t};
