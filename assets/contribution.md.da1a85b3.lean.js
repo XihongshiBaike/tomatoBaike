@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,V as p}from"./chunks/framework.233b31c9.js";const d=JSON.parse('{"title":"贡献和捐助","description":"","frontmatter":{},"headers":[],"relativePath":"contribution.md","filePath":"contribution.md"}'),o={name:"contribution.md"},l=p("",29),e=[l];function t(c,r,i,D,F,y){return a(),n("div",null,e)}const C=s(o,[["render",t]]);export{d as __pageData,C as default};
