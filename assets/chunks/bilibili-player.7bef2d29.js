@@ -1,0 +1,2 @@
+import{_ as r,o as i,c as s,C as o}from"./framework.233b31c9.js";const a={props:{BV:String},name:"biliplayer",computed:{biliLink(){return"//player.bilibili.com/player.html?bvid="+this.BV+"&page=1"}}},l={class:"root"},t=["src"];function c(n,_,p,b,d,e){return i(),s("div",l,[o("iframe",{src:e.biliLink,scrolling:"no",border:"0",frameborder:"no",framespacing:"0",allowfullscreen:"true",class:"player"},`\r
+    `,8,t)])}const f=r(a,[["render",c]]);export{f as b};
